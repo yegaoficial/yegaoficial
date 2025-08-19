@@ -1,0 +1,8 @@
+title: "Yega Site"
+description: "Site de locação por temporada"
+whatsapp_link: "https://wa.me/5511999999999"
+gallery:
+  - image: "/images/foto2.jpg"
+    alt: "Imagem 1"
+  - image: "/images/foto3.jpg"
+    alt: "Imagem 2"
